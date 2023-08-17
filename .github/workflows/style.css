@@ -1,0 +1,45 @@
+body
+{
+    background-color:#C9C9C9 ;
+    padding: 0px;
+}
+
+h1{
+    padding: 19;
+    color: #FF0000;
+}
+
+.img{
+    background-color: #0026FF;
+    padding: 25;
+}
+h5{
+    background-color: #FF0017;
+}
+textarea{
+    padding: 28;
+    width: 100%;
+    height: 2%;
+    background-color: #FFB700;
+    font-family: sams-serif;  
+}
+.btn {
+  background-color: #9100FF;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #FF5B00;
+}
+label{
+    background-color: #FF1700;
+}
+
+video{
+    background-color: #722915;
+}

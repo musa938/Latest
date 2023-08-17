@@ -1,0 +1,29 @@
+body
+{
+    background-color: #A2F3FF;
+    padding: 0px;
+}
+.btn {
+  background-color: #9100FF;
+  border: none;
+  color: white;
+  padding: 45px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #FF5B00;
+}
+
+h2{
+    background-color: #DCFFD1;
+}
+h5{
+    background-color: #FF0000;
+}
+label{
+    background-color: red;
+
+}
